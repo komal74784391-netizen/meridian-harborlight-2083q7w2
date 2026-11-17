@@ -1,0 +1,9 @@
+{
+  "toolkit": "harborlight",
+  "build_id": "hl-2026-09-15-07",
+  "version": "0.9.3",
+  "status": "published",
+  "artifacts": [
+    "harborlight-0.9.3-py3-none-any.whl"
+  ]
+}

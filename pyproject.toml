@@ -1,0 +1,5 @@
+[project]
+name = "harborlight"
+version = "0.9.3"
+description = "Trace exporter"
+requires-python = ">=3.10"
